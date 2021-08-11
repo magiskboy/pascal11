@@ -12,7 +12,7 @@ begin
      if i mod 2=0 then
      begin
        inc(c);
-       write('',i:3);
+       write(i, ' ');
      end;
   writeln;
   writeln('So cac so chan la: ',c);
