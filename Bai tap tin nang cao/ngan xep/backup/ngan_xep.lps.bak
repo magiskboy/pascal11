@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="ngan_xep.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ngan_xep"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="13"/>
+        <CursorPos X="16" Y="38"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="1">
+      <Position1>
+        <Filename Value="ngan_xep.lpr"/>
+        <Caret Line="5" Column="8"/>
+      </Position1>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

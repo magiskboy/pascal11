@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="fi_quy_hoach_dong.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="fi_quy_hoach_dong"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="17"/>
+        <CursorPos X="11" Y="34"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="8" HistoryIndex="7">
+      <Position1>
+        <Filename Value="fi_quy_hoach_dong.lpr"/>
+        <Caret Line="9" Column="12"/>
+      </Position1>
+      <Position2>
+        <Filename Value="fi_quy_hoach_dong.lpr"/>
+        <Caret Line="3" Column="11"/>
+      </Position2>
+      <Position3>
+        <Filename Value="fi_quy_hoach_dong.lpr"/>
+        <Caret Line="27" Column="8" TopLine="3"/>
+      </Position3>
+      <Position4>
+        <Filename Value="fi_quy_hoach_dong.lpr"/>
+        <Caret Line="19" Column="10"/>
+      </Position4>
+      <Position5>
+        <Filename Value="fi_quy_hoach_dong.lpr"/>
+        <Caret Line="20" Column="33"/>
+      </Position5>
+      <Position6>
+        <Filename Value="fi_quy_hoach_dong.lpr"/>
+        <Caret Line="16" Column="14"/>
+      </Position6>
+      <Position7>
+        <Filename Value="fi_quy_hoach_dong.lpr"/>
+        <Caret Line="34" Column="10"/>
+      </Position7>
+      <Position8>
+        <Filename Value="fi_quy_hoach_dong.lpr"/>
+        <Caret Column="39"/>
+      </Position8>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

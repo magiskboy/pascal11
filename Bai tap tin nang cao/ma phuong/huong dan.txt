@@ -1,0 +1,2 @@
+﻿Xem KQ ở file maphuong.txt cùng thư mục với file chương trình
+Không nên nhập n>301

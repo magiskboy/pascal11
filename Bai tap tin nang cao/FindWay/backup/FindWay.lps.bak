@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="FindWay.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="18"/>
+        <CursorPos X="19" Y="31"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="5" HistoryIndex="4">
+      <Position1>
+        <Filename Value="FindWay.lpr"/>
+        <Caret Line="57" Column="28" TopLine="33"/>
+      </Position1>
+      <Position2>
+        <Filename Value="FindWay.lpr"/>
+        <Caret Line="8" Column="23"/>
+      </Position2>
+      <Position3>
+        <Filename Value="FindWay.lpr"/>
+        <Caret Line="10" Column="17"/>
+      </Position3>
+      <Position4>
+        <Filename Value="FindWay.lpr"/>
+        <Caret Line="71" Column="10" TopLine="44"/>
+      </Position4>
+      <Position5>
+        <Filename Value="FindWay.lpr"/>
+        <Caret Line="58" Column="30" TopLine="49"/>
+      </Position5>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

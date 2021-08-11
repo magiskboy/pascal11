@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="day_tang.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="day_tang"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="21"/>
+        <CursorPos X="9" Y="40"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="2" HistoryIndex="1">
+      <Position1>
+        <Filename Value="day_tang.lpr"/>
+        <Caret Line="42" Column="10" TopLine="15"/>
+      </Position1>
+      <Position2>
+        <Filename Value="day_tang.lpr"/>
+        <Caret Line="40" Column="11" TopLine="19"/>
+      </Position2>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

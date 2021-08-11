@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="sinh_day_nhi_phan.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="sinh_day_nhi_phan"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="10" Y="3"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="2" HistoryIndex="1">
+      <Position1>
+        <Filename Value="sinh_day_nhi_phan.lpr"/>
+        <Caret Line="36" Column="15" TopLine="11"/>
+      </Position1>
+      <Position2>
+        <Filename Value="sinh_day_nhi_phan.lpr"/>
+        <Caret Line="3" Column="11"/>
+      </Position2>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

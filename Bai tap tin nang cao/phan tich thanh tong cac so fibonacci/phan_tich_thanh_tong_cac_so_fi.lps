@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="phan_tich_thanh_tong_cac_so_fi.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="phan_tich_thanh_tong_cac_so_fi"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="10"/>
+        <CursorPos X="24" Y="27"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="2" HistoryIndex="1">
+      <Position1>
+        <Filename Value="phan_tich_thanh_tong_cac_so_fi.lpr"/>
+        <Caret Line="18" Column="10"/>
+      </Position1>
+      <Position2>
+        <Filename Value="phan_tich_thanh_tong_cac_so_fi.lpr"/>
+        <Caret Line="34" Column="39" TopLine="8"/>
+      </Position2>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

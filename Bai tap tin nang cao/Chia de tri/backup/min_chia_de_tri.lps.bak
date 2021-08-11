@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="min_chia_de_tri.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="20" Y="2"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="17" HistoryIndex="16">
+      <Position1>
+        <Filename Value="min_chia_de_tri.lpr"/>
+        <Caret Line="22" Column="16"/>
+      </Position1>
+      <Position2>
+        <Filename Value="min_chia_de_tri.lpr"/>
+        <Caret Line="31" Column="10" TopLine="4"/>
+      </Position2>
+      <Position3>
+        <Filename Value="min_chia_de_tri.lpr"/>
+        <Caret Line="19" Column="13" TopLine="8"/>
+      </Position3>
+      <Position4>
+        <Filename Value="min_chia_de_tri.lpr"/>
+        <Caret Line="32" Column="5" TopLine="10"/>
+      </Position4>
+      <Position5>
+        <Filename Value="min_chia_de_tri.lpr"/>
+        <Caret Line="16" Column="14" TopLine="6"/>
+      </Position5>
+      <Position6>
+        <Filename Value="min_chia_de_tri.lpr"/>
+        <Caret Line="9" Column="24" TopLine="6"/>
+      </Position6>
+      <Position7>
+        <Filename Value="min_chia_de_tri.lpr"/>
+        <Caret Line="34" Column="35" TopLine="10"/>
+      </Position7>
+      <Position8>
+        <Filename Value="min_chia_de_tri.lpr"/>
+        <Caret Line="3" Column="17"/>
+      </Position8>
+      <Position9>
+        <Filename Value="min_chia_de_tri.lpr"/>
+        <Caret Line="35" Column="12" TopLine="13"/>
+      </Position9>
+      <Position10>
+        <Filename Value="min_chia_de_tri.lpr"/>
+        <Caret Line="28" Column="9" TopLine="14"/>
+      </Position10>
+      <Position11>
+        <Filename Value="min_chia_de_tri.lpr"/>
+        <Caret Line="34" Column="50" TopLine="20"/>
+      </Position11>
+      <Position12>
+        <Filename Value="min_chia_de_tri.lpr"/>
+        <Caret Line="42" Column="37" TopLine="23"/>
+      </Position12>
+      <Position13>
+        <Filename Value="min_chia_de_tri.lpr"/>
+        <Caret Line="40" Column="21" TopLine="22"/>
+      </Position13>
+      <Position14>
+        <Filename Value="min_chia_de_tri.lpr"/>
+        <Caret Column="33"/>
+      </Position14>
+      <Position15>
+        <Filename Value="min_chia_de_tri.lpr"/>
+        <Caret Line="23" Column="35" TopLine="6"/>
+      </Position15>
+      <Position16>
+        <Filename Value="min_chia_de_tri.lpr"/>
+        <Caret Line="2" Column="20"/>
+      </Position16>
+      <Position17>
+        <Filename Value="min_chia_de_tri.lpr"/>
+        <Caret Line="12" Column="14"/>
+      </Position17>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
